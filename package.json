@@ -26,9 +26,6 @@
     "test": "react-scripts test",
     "test:solution": "npm run docker:build && npm run docker:test"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
